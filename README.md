@@ -31,63 +31,7 @@ This project was developed as part of the **BCSAIMLCS** curriculum at **Kalinga 
 
 ---
 
-## 📂 Project Structure
 
-```
-Aeroblasters/
-│
-├── Assets/
-│   ├── Bullets/
-│   ├── Buttons/
-│   ├── Choppers/
-│   ├── Enemies/
-│   ├── Explosion1/
-│   ├── Explosion2/
-│   ├── Skins/
-│   └── ...
-│
-├── Fonts/
-├── Sounds/
-│
-├── auth.py
-├── login_screen.py
-├── main.py
-├── objects.py
-├── skin_selection.py
-├── users.json
-├── README.md
-└── app.png
-```
-
----
-
-## 🚀 Installation
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/palakgupta0228-png/Aeroblasters.git
-```
-
-### 2. Navigate to the project folder
-
-```bash
-cd Aeroblasters
-```
-
-### 3. Install the required library
-
-```bash
-pip install pygame
-```
-
-### 4. Run the game
-
-```bash
-python main.py
-```
-
----
 
 ## 🎮 How to Play
 
@@ -101,26 +45,9 @@ python main.py
 
 ---
 
-## 📸 Screenshots
-
-You can add gameplay screenshots here after uploading them to the repository.
-
-Example:
-
-```
-screenshots/
-    gameplay.png
-    login.png
-    hangar.png
-```
-
-Then display them in the README using Markdown image syntax.
-
----
-
 ## 📚 Learning Outcomes
 
-This project helped in understanding:
+This project helps in understanding:
 
 * Object-Oriented Programming in Python
 * Game Development using Pygame
