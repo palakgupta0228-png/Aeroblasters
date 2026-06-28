@@ -1,0 +1,37 @@
+{
+    "palak": {
+        "password": "1234",
+        "highscore": 1092,
+        "skin": "inferno"
+    },
+    "": {
+        "password": "",
+        "highscore": 0
+    },
+    "asd": {
+        "password": "1234",
+        "highscore": 0
+    },
+    "tommy": {
+        "password": "1234",
+        "highscore": 0
+    },
+    "guddu": {
+        "password": "5678",
+        "highscore": 100,
+        "skin": "default"
+    },
+    "subham": {
+        "password": "6789",
+        "highscore": 0
+    },
+    "om": {
+        "password": "4534",
+        "highscore": 0
+    },
+    "v p gupta": {
+        "password": "1969",
+        "highscore": 90,
+        "skin": "golden"
+    }
+}
