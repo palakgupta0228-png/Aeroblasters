@@ -2,7 +2,7 @@
 
 Aeroblasters is a **2D Space Shooter Game** developed using **Python** and **Pygame**. The game provides an arcade-style gameplay experience where players control a fighter aircraft, defeat enemy planes, collect fuel and power-ups, and achieve the highest possible score.
 
-This project was developed as part of the **B.Tech Computer Science & Information Technology** curriculum at **Kalinga University, Raipur**.
+This project was developed as part of the **BCSAIMLCS** curriculum at **Kalinga University, Raipur**.
 
 ---
 
