@@ -30,18 +30,58 @@ This project was developed as part of the **BCSAIMLCS** curriculum at **Kalinga 
 * JSON (User Data Storage)
 
 ---
+## ⚙️ Installation
 
+### 1. Clone the Repository
 
+```bash
+git clone https://github.com/palakgupta0228-png/Aeroblasters.git
+```
+
+### 2. Navigate to the Project Folder
+
+```bash
+cd Aeroblasters
+```
+
+### 3. Install the Required Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Run the Game
+
+```bash
+python main.py
+```
+
+---
 
 ## 🎮 How to Play
 
-* Login using the game login screen.
-* Select your preferred aircraft skin from the hangar.
-* Use the keyboard to move the aircraft.
-* Shoot enemy planes.
-* Collect fuel to keep flying.
-* Pick up power-ups to improve gameplay.
-* Survive as long as possible and achieve the highest score.
+1. Launch the game.
+2. Log in using the login screen.
+3. Select your preferred aircraft skin from the hangar.
+4. Control your aircraft using the keyboard.
+5. Destroy enemy aircraft to earn points.
+6. Collect fuel to keep your aircraft flying.
+7. Collect power-ups to gain advantages during gameplay.
+8. Avoid enemy collisions and survive as long as possible.
+9. Try to beat your highest score.
+
+---
+
+## 🎮 Controls
+
+| Key           | Action       |
+| ------------- | ------------ |
+| ⬅ Left Arrow  | Move Left    |
+| ➡ Right Arrow | Move Right   |
+| ⬆ Up Arrow    | Move Up      |
+| ⬇ Down Arrow  | Move Down    |
+| Spacebar      | Fire Bullets |
+
 
 ---
 
